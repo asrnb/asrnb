@@ -5,14 +5,14 @@
 
 <h1 align="center">Hi 👋, I'm April Suarnaba</h1>
 <p align="center">
-   🎓 Computer Science Graduate | 💻 Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer | 🌐 Network Specialist  
+   | 💻 Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science graduate** with strong skills across **software development**, **machine learning**, **computer vision**, and **networking**. I love solving real-world problems by combining technology, design, and data.
+I'm a passionate **Computer Science graduate** with strong skills across **software development**, **artificial intelligence**,  **machine learning**, **computer vision**, and **networking**. I love solving real-world problems by combining technology, design, and data.
 
 - 🔭 I’m currently building **AI-powered systems** and predictive models  
 - 🌱 I’m deepening my knowledge in **YOLO**, **XGBoost**, and **network automation**  
