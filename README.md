@@ -60,8 +60,8 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asrnb&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrnb&layout=compact&theme=radical" width="47%" />
-</p>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrnb&layout=compact&theme=radical" width="47%" />
+</p> -->
 
 ---
 
