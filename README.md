@@ -1,9 +1,5 @@
 <!-- Banner image (optional) -->
-<p align="center">
-  <img src="profile-banner.jpg" alt="April Suarnaba Banner" width="10%" />
-</p>
-
-<h1 align="center">Hi👋, I'm April Suarnaba</h1>
+<h1 align="center">Hi, I'm April! 👋 </h1>
 <p align="center">
    💻 Software Developer | 🤖 ML & CV Enthusiast | 🎨 UI/UX Designer  
 </p>
