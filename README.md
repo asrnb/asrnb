@@ -13,19 +13,15 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 - 🔭 I’m currently building **AI-powered systems** and predictive models  
 - 🌱 I’m deepening my knowledge in **YOLO**, **XGBoost**, and **network automation**  
 - 💡 I enjoy designing clean, intuitive **UI/UX** experiences  
-- ⚡ Fun fact: I helped **LINK.EXE** as a photographer and ICT advocate!
-
 ---
 
 ## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -53,6 +49,12 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 | [Skynet Academy Network Design](https://github.com/AprilSuarnaba/AprilSuarnaba-Portfolio/tree/main/projects/network-diagram-skynet-academy) | Full network layout with IP addressing | Packet Tracer, Visio |
 
 ---
+## 📂 UI/UX Designs
+| Project | Description | Tech Stack |
+| [Luminance Application](https://www.figma.com/proto/2hdvz905hpaX5xcBkUAykF/Luminance--UI-UX-?node-id=1-4&t=g5Iveeu5jCV242C8-1) | Figma
+| [Sa-kaii Application ](https://www.figma.com/proto/EBbrqTIt5OCmmTp9RXDALV/Sa-kai?node-id=3-652&starting-point-node-id=1%3A4) | Figma
+
+
 
 ## 🏆 Certifications
 
