@@ -50,8 +50,8 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 
 
 ## 📂 UI/UX Designs
-| [Luminance Application](https://www.figma.com/proto/2hdvz905hpaX5xcBkUAykF/Luminance--UI-UX-?node-id=1-4&t=g5Iveeu5jCV242C8-1) | Figma |
-| [Sa-kaii Application ](https://www.figma.com/proto/EBbrqTIt5OCmmTp9RXDALV/Sa-kai?node-id=3-652&starting-point-node-id=1%3A4) | Figma |
+| [Luminance Application](https://www.figma.com/proto/2hdvz905hpaX5xcBkUAykF/Luminance--UI-UX-?node-id=1-4&t=g5Iveeu5jCV242C8-1) |
+| [Sa-kaii Application ](https://www.figma.com/proto/EBbrqTIt5OCmmTp9RXDALV/Sa-kai?node-id=3-652&starting-point-node-id=1%3A4) |
 
 ---
 
