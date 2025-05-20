@@ -51,6 +51,7 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 ---
 
 ## 📂 UI/UX Designs
+
 |---------|-------------|------------|
 | Project | Description | Tech Stack |
 | [Luminance Application](https://www.figma.com/proto/2hdvz905hpaX5xcBkUAykF/Luminance--UI-UX-?node-id=1-4&t=g5Iveeu5jCV242C8-1) | Figma |
