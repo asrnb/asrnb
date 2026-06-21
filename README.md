@@ -52,6 +52,7 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 ## 📂 UI/UX/Graphic Designs
 - [Luminance Application](https://www.figma.com/proto/2hdvz905hpaX5xcBkUAykF/Luminance--UI-UX-?node-id=1-4&t=g5Iveeu5jCV242C8-1) 
 - [Sa-kaii Application](https://www.figma.com/proto/EBbrqTIt5OCmmTp9RXDALV/Sa-kai?node-id=3-652&starting-point-node-id=1%3A4)
+- [Tuklaseen](https://www.figma.com/proto/LZM9lghc147nd1RaHMoBwB/TuklaSEEn-Prototype?node-id=11-130&t=vWAL2a06wzsdVRds-1&starting-point-node-id=11%3A130)
 - [Research Colloquium Poster](https://www.canva.com/design/DAGn-hiPLE4/6kfgVvnJ770M1cV0uP4BjQ/watch?utm_content=DAGn-hiPLE4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8fe025590e) 
 - [Webinar Poster: 5G Technology](https://www.canva.com/design/DAGn-kLPcj0/avJccJbTXVjljG6PGqwjGQ/view?utm_content=DAGn-kLPcj0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe67f8d8b3)
 - [SAAI Mr. & Ms. Cover Photo](https://www.canva.com/design/DAG0nnzpFco/eAnkOr5MOZnDUZJtPfTGRg/edit?utm_content=DAG0nnzpFco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
