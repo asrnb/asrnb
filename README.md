@@ -63,7 +63,7 @@ I'm a passionate **Computer Science graduate** with strong skills across **softw
 ## 🏆 Certifications
 
 - **NC II** — Computer System Servicing  
-- **Software Developer Intern** — Callbox Inc. Iloilo  
+- ** Intern - Software Developer** — Callbox Inc. Iloilo  
 
 ---
 
